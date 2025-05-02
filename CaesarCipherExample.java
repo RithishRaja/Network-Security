@@ -1,4 +1,5 @@
-class CaesarCipher
+import java.lang.StringBuilder;
+class Main
 {
     // Encrypts text using a shift of s
     public static StringBuffer encrypt(String text, int s)
